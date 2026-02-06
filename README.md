@@ -65,6 +65,16 @@ The structure of this repository, including this `README.md` file and the organi
 
 Individual books, papers, and other PDF documents within this repository retain their original copyrights and licenses as determined by their respective authors and publishers.
 
+## 🌟 Star History
+
+<a href="https://github.com/MinhNguyenDS/AI-pdf-books/stargazers">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=MinhNguyenDS/AI-pdf-books&type=Date&theme=light" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=MinhNguyenDS/AI-pdf-books&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=MinhNguyenDS/AI-pdf-books&type=Date" />
+  </picture>
+</a>
+
 ---
 
 Happy Learning! If you find this repository useful, please consider giving it a ⭐!
